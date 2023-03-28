@@ -3,8 +3,6 @@
 The legends speak of a Pilgrim who will come during the Kingdom's darkest hour, the Hero, the only one who can uncover the ancient secrets of the Haskell Arcanum and defeat the Enemies. Will you answer the call, Adventurer? Will you help the citizens of Caladail and bring back light into this world? Will you brave the terrors and learn the ancient power of functional programming… to face... The Reasoner?
 If you read this far, I assume you would be interested in playing my game HaskellQuest? Here is how to install the game:
 
-MacOS: https://github.com/somethingololo/HaskellQuest-for-MacOS
-Do the following steps:
 1. Green "Code" dropdown
 2. Download as zip
 3. Unzip on your computer
